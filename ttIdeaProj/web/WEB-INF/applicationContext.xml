@@ -26,4 +26,6 @@
 
     <!-- Load Hibernate related configuration -->
     <import resource="hibernateContext.xml" />
+
+
 </beans>
